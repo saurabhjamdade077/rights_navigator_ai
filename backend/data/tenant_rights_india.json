@@ -1,0 +1,64 @@
+[
+  {
+    "id": "tenant-001",
+    "category": "tenant",
+    "act": "Model Tenancy Act, 2021 & State Rent Control Acts",
+    "section": "Section 10 & 13",
+    "title": "Security Deposit Limits and Mandatory Refund Timeline",
+    "keywords": ["security deposit", "advance", "refund", "deduction", "withheld", "landlord", "flat", "rent"],
+    "summary": "Under Section 10 of the Model Tenancy Act, security deposit for residential premises is capped at a maximum of 2 months' rent. Under Section 13, the landlord must refund the entire security deposit to the tenant at the time of taking over vacant possession of the premises, after making agreed reasonable deductions for unpaid rent or actual damages.",
+    "key_provisions": [
+      "Residential security deposit cannot exceed two months of rent.",
+      "The landlord must refund the security deposit upon vacating and handing over key possession.",
+      "Deductions can only be made for documented damages beyond normal wear and tear, or arrears of rent.",
+      "If the landlord unlawfully retains the deposit, the tenant can approach the Rent Authority / Rent Tribunal for recovery with interest and penalties."
+    ],
+    "remedy": "Issue a formal written legal notice demanding the refund within 15 days. If unreturned, file a petition before the local Rent Authority / Rent Court or District Consumer Disputes Redressal Commission / Civil Court for recovery with 12-18% interest."
+  },
+  {
+    "id": "tenant-002",
+    "category": "tenant",
+    "act": "Model Tenancy Act, 2021 & Transfer of Property Act, 1882",
+    "section": "Section 21 & Section 106",
+    "title": "Protection Against Unlawful Eviction and Lockouts",
+    "keywords": ["eviction", "lockout", "throw out", "leave immediately", "notice period", "vacate", "forceful eviction"],
+    "summary": "A landlord cannot forcibly evict a tenant, disconnect essential services (water, electricity), or change door locks without following the due legal process and obtaining an order from the Rent Court.",
+    "key_provisions": [
+      "Section 21 prohibits recovery of possession except on specified grounds (e.g. non-payment of rent for 2 consecutive months, misuse of premises).",
+      "Section 20 explicitly prohibits landlords from cutting off or withholding essential supplies (water, power, sanitation).",
+      "Tenants are entitled to mandatory written notice (usually 30 days or as stipulated in the registered rent agreement).",
+      "Summary eviction without a Rent Court order is illegal and punishable."
+    ],
+    "remedy": "File an emergency interim application before the Rent Authority for restoration of essential services / injunction against forceful eviction. Police complaint can be lodged under IPC / BNS for criminal trespass and intimidation."
+  },
+  {
+    "id": "tenant-003",
+    "category": "tenant",
+    "act": "Model Tenancy Act, 2021",
+    "section": "Section 15 & Schedule II",
+    "title": "Maintenance, Essential Repairs, and Habitability",
+    "keywords": ["maintenance", "repairs", "plumbing", "leakage", "structural damage", "painting", "water", "inhabitable"],
+    "summary": "Division of repair responsibilities between landlord and tenant. Landlord is responsible for structural repairs, major electrical rewiring, exterior painting, and major plumbing defects.",
+    "key_provisions": [
+      "Landlords are statutorily required to keep the premises in tenantable repair.",
+      "If the landlord refuses to carry out agreed major repairs after receiving a 15-day notice, the tenant can carry out the repairs and deduct the cost from monthly rent (up to 50% of monthly rent per month until recovered).",
+      "The landlord must give at least 24 hours prior written/electronic notice before entering the premises for inspection or maintenance."
+    ],
+    "remedy": "Send written notice detailing necessary repairs with photos/estimates giving 15 days. If landlord fails to act, tenant may carry out repairs and deduct expense from rent or approach the Rent Authority."
+  },
+  {
+    "id": "tenant-004",
+    "category": "tenant",
+    "act": "Model Tenancy Act, 2021 & State Tenancy Laws",
+    "section": "Section 9",
+    "title": "Arbitrary Rent Hikes and Revision Rules",
+    "keywords": ["rent hike", "rent increase", "arbitrary increase", "unreasonable rent", "revision"],
+    "summary": "Rent revision can only occur as per the terms explicitly agreed upon in the written tenancy agreement. Landlords cannot arbitrarily increase rent mid-lease.",
+    "key_provisions": [
+      "Rent revision must strictly follow the written tenancy agreement.",
+      "The landlord must give at least 3 months' written notice before the revised rent becomes effective.",
+      "If tenant considers the increase unreasonable and doesn't agree, tenant can notify termination as per notice terms or approach Rent Authority."
+    ],
+    "remedy": "Respond in writing rejecting unauthorized mid-term increase citing Section 9 and the lease agreement terms."
+  }
+]

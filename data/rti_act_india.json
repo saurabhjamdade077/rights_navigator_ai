@@ -1,0 +1,49 @@
+[
+  {
+    "id": "rti-001",
+    "category": "rti",
+    "act": "Right to Information Act, 2005",
+    "section": "Section 6(1) & Section 7(1)",
+    "title": "Filing an RTI Application, Statutory Timelines & Information Access",
+    "keywords": ["rti", "right to information", "pio", "public authority", "government", "road repair", "tender", "exam copy", "delay in pension", "municipal corporation", "civic issue", "fund utilization"],
+    "summary": "Any Indian citizen has the fundamental right under the RTI Act, 2005 to seek certified information, inspect records, works, or materials from any Public Authority (Central, State, Municipal, PSU, or government-aided bodies).",
+    "key_provisions": [
+      "Application can be submitted in English, Hindi, or official state language accompanied by a nominal fee of ₹10 (exempt for Below Poverty Line / BPL cardholders).",
+      "Standard Response Timeline: Central/State Public Information Officer (CPIO/SPIO) MUST provide information within 30 days of receiving the application.",
+      "Life & Liberty Exemption Timeline: If the information sought concerns the life or liberty of a person, it MUST be provided within 48 hours.",
+      "If the application is erroneously sent to the wrong public authority, the PIO must transfer it to the correct department within 5 days under Section 6(3).",
+      "Applicants are NOT required to give any reason for requesting the information, only contact details."
+    ],
+    "remedy": "Submit application online via rtionline.gov.in (for Central ministries/departments/PSUs) or respective State RTI portals. For offline filing, send via Speed Post / Registered Post with ₹10 Postal Order (IPO) or Court Fee Stamp addressed to the Public Information Officer (PIO)."
+  },
+  {
+    "id": "rti-002",
+    "category": "rti",
+    "act": "Right to Information Act, 2005",
+    "section": "Section 19(1) & Section 19(3)",
+    "title": "First and Second Appeals for RTI Rejection or Non-Response",
+    "keywords": ["rti appeal", "first appeal", "second appeal", "pio not responding", "deemed refusal", "cic", "sic", "penalty on pio"],
+    "summary": "Citizens can appeal if the PIO fails to reply within 30 days (deemed refusal) or provides incomplete, misleading, or false information.",
+    "key_provisions": [
+      "First Appeal (Section 19(1)): File within 30 days of the expiry of the 30-day limit or receipt of adverse order before the First Appellate Authority (FAA), who is a senior officer within the same public authority. Must be disposed within 30-45 days.",
+      "Second Appeal (Section 19(3)): If dissatisfied with FAA order or FAA fails to decide, file within 90 days before the Central Information Commission (CIC) or State Information Commission (SIC).",
+      "Penalties on PIO (Section 20): Information Commission can impose a penalty of ₹250 per day (up to ₹25,000) on the PIO for unreasonable delay, malafide refusal, or destruction of information, and recommend disciplinary proceedings."
+    ],
+    "remedy": "File a First Appeal under Section 19(1) to the designated First Appellate Authority. Attach original RTI copy, postal proof, and mention 'Deemed Refusal under Section 7(2)'."
+  },
+  {
+    "id": "rti-003",
+    "category": "rti",
+    "act": "Right to Information Act, 2005",
+    "section": "Section 8 & Section 4(1)(b)",
+    "title": "Permissible Information, Section 8 Exemptions & Proactive Disclosure",
+    "keywords": ["exemptions", "section 8", "national security", "personal information", "third party", "suo motu disclosure"],
+    "summary": "Specifies what can and cannot be withheld under RTI. Government works, tenders, expenditure, sanctioned budgets, official correspondence, minutes of meetings, and inspection reports are completely public.",
+    "key_provisions": [
+      "Section 8(1) restricts national security, cabinet papers before decision, trade secrets, and personal info with no public interest.",
+      "Section 8(2) Public Interest Override: Even exempt information can be disclosed if the public interest in disclosure outweighs the harm to protected interests.",
+      "Section 4(1)(b) mandates proactive suo-motu disclosure of organization structure, powers, budgets, and beneficiary schemes on public websites."
+    ],
+    "remedy": "If Section 8 is falsely invoked by PIO to hide corruption, municipal negligence, or administrative delay, cite Section 8(2) public interest and High Court/Supreme Court precedents during First Appeal."
+  }
+]

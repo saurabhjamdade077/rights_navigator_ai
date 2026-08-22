@@ -1,0 +1,50 @@
+[
+  {
+    "id": "consumer-001",
+    "category": "consumer",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 2(47) & Section 35",
+    "title": "Defective Goods, Deficiency of Service & Right to Full Refund/Replacement",
+    "keywords": ["defective", "damaged", "faulty", "replacement", "refund", "warranty", "guarantee", "service deficiency", "electronics", "e-commerce"],
+    "summary": "Every consumer has the right to be protected against goods/services that are hazardous or substandard. If goods received are defective or services deficient, the consumer is entitled to repair, replacement, or complete refund with interest, plus compensation for mental harassment.",
+    "key_provisions": [
+      "Manufacturers and sellers are liable for defective products under Product Liability (Section 82-87).",
+      "Refusal to refund or replace within warranty or upon delivery of damaged product constitutes 'Deficiency of Service' and 'Unfair Trade Practice'.",
+      "Consumers can file online complaints anywhere in India via the National Consumer Helpline (NCH - 1915) or E-Daakhil portal (edaakhil.nic.in).",
+      "District Consumer Commission has pecuniary jurisdiction up to ₹50 Lakhs (revised rules 2021)."
+    ],
+    "remedy": "1. Call National Consumer Helpline at 1915 or register ticket on consumerhelpline.gov.in. 2. Send formal legal notice giving 15 days to resolve. 3. File e-complaint on E-Daakhil (edaakhil.nic.in) before the District Consumer Commission claiming product refund plus litigation costs and mental agony compensation."
+  },
+  {
+    "id": "consumer-002",
+    "category": "consumer",
+    "act": "Consumer Protection (E-Commerce) Rules, 2020",
+    "section": "Rule 4, 5 & 6",
+    "title": "E-Commerce Return, Refund, and Cancellation Rights",
+    "keywords": ["amazon", "flipkart", "online shopping", "return rejected", "cancellation charges", "fake product", "delivery delay", "dark patterns"],
+    "summary": "E-commerce entities must provide easy returns, clear grievance officer contact, transparent refund timelines, and cannot impose arbitrary cancellation charges or dark patterns.",
+    "key_provisions": [
+      "E-commerce entities cannot impose cancellation charges unless similar charges are borne by the seller if they cancel unilaterally.",
+      "Mandatory grievance redressal mechanism with an appointed Grievance Officer whose details must be prominently published.",
+      "Grievance Officer must acknowledge consumer complaint within 48 hours and resolve within 1 month.",
+      "Sellers cannot refuse to take back goods or discontinue services if goods are defective, deficient, or spurious.",
+      "Prohibition against 'Dark Patterns' like false urgency, basket sneaking, and forced continuity under CCPA Guidelines 2023."
+    ],
+    "remedy": "Escalate to the platform's Grievance Officer under E-Commerce Rules. If unresolved in 48-72 hours, lodge complaint on NCH (1915 / INGRAM app) and CCPA (Central Consumer Protection Authority)."
+  },
+  {
+    "id": "consumer-003",
+    "category": "consumer",
+    "act": "Consumer Protection Act, 2019 & IRDAI Guidelines",
+    "section": "Section 2(11) & IRDAI Protection of Policyholders Regulations",
+    "title": "Insurance Claim Rejection & Banking Service Deficiency",
+    "keywords": ["insurance", "health insurance", "claim rejected", "bank", "unauthorized transaction", "credit card", "chargeback"],
+    "summary": "Arbitrary repudiation of health/motor/life insurance claims without valid statutory or policy grounds constitutes service deficiency. Banks must adhere to zero-liability rules for fraudulent transactions reported promptly.",
+    "key_provisions": [
+      "Insurer cannot reject claims citing non-disclosure of pre-existing conditions if the policy has been active continuously for more than 5/8 years (Moratorium Period).",
+      "Rejection must state precise medical and policy grounds; standard vague clauses are invalid.",
+      "Under RBI Circulars, zero liability applies to customers for third-party cyber fraud if reported within 3 working days."
+    ],
+    "remedy": "File complaint with the Internal Ombudsman of the Bank/Insurer. If rejected, approach the Insurance Ombudsman (cioins.co.in) or RBI Ombudsman (cms.rbi.org.in), or file a case in District Consumer Forum."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "workplace-001",
+    "category": "workplace",
+    "act": "Payment of Wages Act, 1936 & State Shops & Commercial Establishments Acts",
+    "section": "Section 5 & Section 15",
+    "title": "Unpaid Wages, Full & Final Settlement (FnF) Withholding & Notice Pay",
+    "keywords": ["salary", "unpaid wages", "fnf", "full and final", "withheld salary", "experience letter", "relieving letter", "notice pay", "resignation", "employer"],
+    "summary": "Employers cannot unlawfully withhold earned wages, bonus, or statutory benefits upon resignation or termination. Full & Final Settlement (FnF) must typically be cleared within 7 to 30 days of the last working day (or 2 working days under the Code on Wages).",
+    "key_provisions": [
+      "Wages must be paid by the 7th or 10th of the following month.",
+      "An employer cannot withhold experience/relieving letters or earned salary as leverage in contractual disputes.",
+      "Unauthorized deductions from salary are illegal under Section 7 of the Payment of Wages Act.",
+      "If the employee has served the agreed notice period or agreed to notice buyout, the employer must clear all dues including accrued leave encashment and gratuity (if eligible)."
+    ],
+    "remedy": "1. Send a formal written demand email/letter to HR and Senior Management citing Payment of Wages Act and Shops & Establishments Act, giving 7 working days. 2. File a formal complaint before the Regional Labour Commissioner / Conciliation Officer. 3. File a summary recovery suit under Section 33C(2) of the Industrial Disputes Act or local Shops & Establishment Authority."
+  },
+  {
+    "id": "workplace-002",
+    "category": "workplace",
+    "act": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH Act)",
+    "section": "Section 4, 9, 11 & 13",
+    "title": "Workplace Harassment Protection & POSH Internal Complaints Committee (ICC)",
+    "keywords": ["posh", "sexual harassment", "harassment", "hostile work environment", "icc", "workplace harassment", "woman employee"],
+    "summary": "Statutory right of women to a safe working environment free from sexual harassment, unwelcome physical contact, sexually colored remarks, or implicit threats to employment status.",
+    "key_provisions": [
+      "Every establishment with 10 or more employees MUST constitute an Internal Complaints Committee (ICC) headed by a senior woman employee and including an independent NGO member.",
+      "Complaint can be submitted within 3 months of the incident (extendable by another 3 months upon justification).",
+      "During inquiry, the aggrieved woman can request interim relief: transfer, up to 3 months paid leave (in addition to normal leave), or restraining the respondent from reporting on her appraisal.",
+      "Inquiry must be concluded within 90 days, and employer must implement recommendations within 60 days.",
+      "Identity of complainant and proceedings are strictly confidential under Section 16 (breach attracts penalties)."
+    ],
+    "remedy": "Submit written complaint (6 copies with supporting evidence/witness list) to the Presiding Officer of the ICC. If no ICC exists or employer is the respondent, submit complaint to the District Officer / Local Complaints Committee (LCC) or file via the SHe-Box portal (shebox.nic.in)."
+  },
+  {
+    "id": "workplace-003",
+    "category": "workplace",
+    "act": "Maternity Benefit Act, 1961 (Amended 2017)",
+    "section": "Section 5 & Section 12",
+    "title": "Maternity Leave, Pay Rights & Protection Against Dismissal",
+    "keywords": ["maternity leave", "pregnancy", "maternity benefit", "firing pregnant employee", "crèche", "wfh"],
+    "summary": "Every woman who has worked for at least 80 days in an establishment of 10+ employees is entitled to 26 weeks of fully paid maternity leave. It is unlawful to dismiss or discharge a woman employee during maternity leave.",
+    "key_provisions": [
+      "Entitlement to 26 weeks of paid maternity leave (up to 8 weeks before delivery).",
+      "Section 12 makes it strictly unlawful for an employer to terminate, discharge, or vary conditions of service of a woman during her absence on maternity leave.",
+      "Establishments with 50 or more employees must provide a crèche facility within prescribed distance.",
+      "Work from home option may be mutually agreed after the 26-week period."
+    ],
+    "remedy": "Issue legal notice to employer citing Section 12 of the Maternity Benefit Act. File complaint with the Chief Inspector of Factories / Labour Inspector."
+  },
+  {
+    "id": "workplace-004",
+    "category": "workplace",
+    "act": "Industrial Disputes Act, 1947 & State Shops & Establishments Acts",
+    "section": "Section 25F & Section 2A",
+    "title": "Wrongful / Illegal Termination and Retrenchment Safeguards",
+    "keywords": ["illegal termination", "wrongful termination", "fired without notice", "severance", "retrenchment", "arbitrary firing", "pip fraud"],
+    "summary": "Protection against arbitrary termination without notice, cause, or mandatory retrenchment compensation.",
+    "key_provisions": [
+      "Workmen with continuous service of 1 year cannot be retrenched without 1 month written notice (or pay in lieu) and retrenchment compensation (15 days average pay for every completed year of service).",
+      "Termination on fabricated charges without a domestic inquiry violating principles of natural justice can be set aside with back wages.",
+      "Shops & Establishments Acts generally mandate minimum 30 days notice or 30 days salary in lieu of notice for non-workmen."
+    ],
+    "remedy": "Issue legal notice challenging the termination as illegal. File an Industrial Dispute before the Labour Conciliation Officer under Section 2A of the Industrial Disputes Act."
+  }
+]
