@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://rights-navigator-ai.onrender.com/api/:path*"
+      "destination": "https://rights-navigator-backend.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
