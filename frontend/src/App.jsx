@@ -308,14 +308,32 @@ export default function App() {
         <footer className="border-t border-slate-800/80 bg-slate-950/90 backdrop-blur-xl mt-12 py-6">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-4">
             <DisclaimerBanner />
-            <div className="flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500 pt-3 border-t border-slate-900">
+            <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-400 pt-3 border-t border-slate-900">
               <div className="flex items-center gap-2">
                 <Scale className="w-4 h-4 text-amber-400" />
-                <span className="font-semibold text-slate-300">Rights Navigator India</span>
-                <span>• Educational Public Good</span>
+                <span className="font-semibold text-slate-200">Rights Navigator India</span>
+                <span>• Built by <strong className="text-slate-200">Saurabh Jamdade</strong></span>
               </div>
-              <div className="text-center sm:text-right">
-                Empowering citizens with Model Tenancy Act, CPA 2019, Payment of Wages & RTI Act 2005.
+              <div className="flex items-center gap-4 text-xs">
+                <a
+                  href="https://www.linkedin.com/in/saurabh-jamdade-b98259373/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-400 hover:text-blue-300 font-semibold transition-colors flex items-center gap-1"
+                >
+                  <span>LinkedIn Profile</span>
+                  <span>↗</span>
+                </a>
+                <span className="text-slate-600">•</span>
+                <a
+                  href="https://github.com/saurabhjamdade077/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-slate-300 hover:text-white font-semibold transition-colors flex items-center gap-1"
+                >
+                  <span>GitHub Profile</span>
+                  <span>↗</span>
+                </a>
               </div>
             </div>
           </div>

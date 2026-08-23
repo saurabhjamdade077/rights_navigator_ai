@@ -97,7 +97,7 @@ rights_navigator_ai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/rights_navigator_ai.git
+git clone https://github.com/saurabhjamdade077/rights_navigator_ai.git
 cd rights_navigator_ai
 ```
 
@@ -178,6 +178,14 @@ python backend/test_backend.py
    }
    ```
 5. Click **Deploy**.
+
+---
+
+## 👨‍💻 Author & Connect
+
+**Saurabh Jamdade**
+- 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh_Jamdade-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/saurabh-jamdade-b98259373/)
+- 🐙 **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-saurabhjamdade077-181717?style=flat&logo=github)](https://github.com/saurabhjamdade077/)
 
 ---
 
